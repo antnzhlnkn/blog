@@ -12,7 +12,7 @@ const AboutPage: FC = () => (
       About me
     </Typography>
 
-    <Typography variant="body1">Welcome to page 2.</Typography>
+    <Typography variant="body1">My name is Anton</Typography>
 
     <Typography variant="body1">
       <Link component={GatsbyLink} to="/">
