@@ -1,6 +1,5 @@
 /* eslint-disable @typescript-eslint/camelcase */
 module.exports = {
-  pathPrefix: "/blog",
   siteMetadata: {
     title: `Ant Gatsby blog`,
     description: `Blog with using Gatsby & TypeScript`,
