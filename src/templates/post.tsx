@@ -8,9 +8,6 @@ import { Typography, Link } from '@material-ui/core'
 const PostPage: FC = () => (
   <Layout container>
     <SEO title="About" />
-    <Typography variant="h2" gutterBottom component="h1">
-      About me
-    </Typography>
 
     <Typography variant="body1">Welcome to page 2.</Typography>
 
