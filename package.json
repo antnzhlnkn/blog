@@ -16,6 +16,7 @@
     "build": "gatsby build",
     "develop": "gatsby develop",
     "start": "npm run develop",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "lint": "run-p lint:**",
