@@ -15,4 +15,4 @@ jobs:
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           BRANCH: gh-pages
-=          BUILD_SCRIPT: yarn build
+          BUILD_SCRIPT: yarn build
