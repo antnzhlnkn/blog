@@ -10,6 +10,9 @@ const useStyles = makeStyles({
   },
   link: {
     textDecoration: 'none',
+    '&:hover': {
+      textDecoration: 'none',
+    },
   },
 })
 
